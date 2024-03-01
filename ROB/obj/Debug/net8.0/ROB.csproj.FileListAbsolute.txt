@@ -1,0 +1,14 @@
+C:\project\C#\Tasks\ROB\ROB\bin\Debug\net8.0\ROB.exe
+C:\project\C#\Tasks\ROB\ROB\bin\Debug\net8.0\ROB.deps.json
+C:\project\C#\Tasks\ROB\ROB\bin\Debug\net8.0\ROB.runtimeconfig.json
+C:\project\C#\Tasks\ROB\ROB\bin\Debug\net8.0\ROB.dll
+C:\project\C#\Tasks\ROB\ROB\bin\Debug\net8.0\ROB.pdb
+C:\project\C#\Tasks\ROB\ROB\obj\Debug\net8.0\ROB.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\C#\Tasks\ROB\ROB\obj\Debug\net8.0\ROB.AssemblyInfoInputs.cache
+C:\project\C#\Tasks\ROB\ROB\obj\Debug\net8.0\ROB.AssemblyInfo.cs
+C:\project\C#\Tasks\ROB\ROB\obj\Debug\net8.0\ROB.csproj.CoreCompileInputs.cache
+C:\project\C#\Tasks\ROB\ROB\obj\Debug\net8.0\ROB.dll
+C:\project\C#\Tasks\ROB\ROB\obj\Debug\net8.0\refint\ROB.dll
+C:\project\C#\Tasks\ROB\ROB\obj\Debug\net8.0\ROB.pdb
+C:\project\C#\Tasks\ROB\ROB\obj\Debug\net8.0\ROB.genruntimeconfig.cache
+C:\project\C#\Tasks\ROB\ROB\obj\Debug\net8.0\ref\ROB.dll

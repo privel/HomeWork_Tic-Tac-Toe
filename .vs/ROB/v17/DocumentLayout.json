@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\project\\C#\\Tasks\\ROB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A97CA35-F6B5-4796-9533-D060752004CB}|ROB\\ROB.csproj|c:\\project\\c#\\tasks\\rob\\rob\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A97CA35-F6B5-4796-9533-D060752004CB}|ROB\\ROB.csproj|solutionrelative:rob\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A97CA35-F6B5-4796-9533-D060752004CB}|ROB\\ROB.csproj|c:\\project\\c#\\tasks\\rob\\rob\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A97CA35-F6B5-4796-9533-D060752004CB}|ROB\\ROB.csproj|solutionrelative:rob\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A97CA35-F6B5-4796-9533-D060752004CB}|ROB\\ROB.csproj|c:\\project\\c#\\tasks\\rob\\rob\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A97CA35-F6B5-4796-9533-D060752004CB}|ROB\\ROB.csproj|solutionrelative:rob\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\project\\C#\\Tasks\\ROB\\ROB\\Rectangle.cs",
+              "RelativeDocumentMoniker": "ROB\\Rectangle.cs",
+              "ToolTip": "C:\\project\\C#\\Tasks\\ROB\\ROB\\Rectangle.cs",
+              "RelativeToolTip": "ROB\\Rectangle.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T05:57:31.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\project\\C#\\Tasks\\ROB\\ROB\\Circle.cs",
+              "RelativeDocumentMoniker": "ROB\\Circle.cs",
+              "ToolTip": "C:\\project\\C#\\Tasks\\ROB\\ROB\\Circle.cs",
+              "RelativeToolTip": "ROB\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T05:50:17.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\project\\C#\\Tasks\\ROB\\ROB\\Program.cs",
+              "RelativeDocumentMoniker": "ROB\\Program.cs",
+              "ToolTip": "C:\\project\\C#\\Tasks\\ROB\\ROB\\Program.cs",
+              "RelativeToolTip": "ROB\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T05:48:22.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
